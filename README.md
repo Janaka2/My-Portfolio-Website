@@ -3,7 +3,7 @@
 
 A personal portfolio website showcasing my skills, work experience, projects, and accomplishments. Built with HTML, CSS, and JavaScript.
 
-![Portfolio Website Preview](./portfolio-preview.png)
+![Portfolio Website Preview](./home.png)
 
 ## Table of Contents
 
